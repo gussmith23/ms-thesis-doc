@@ -1,6 +1,6 @@
 # Master's Thesis Code Documentation
 
-This repository documents all of the code produced for [my Master's thesis](https://github.com/gussmith23/masters-thesis/releases/), completed in Spring 2018 at Penn State. It assumes you have a basic understanding of the content of my thesis. If you do not, then please start by skimming over my thesis.
+This repository documents all of the code produced for [my Master's thesis](https://github.com/gussmith23/masters-thesis/releases/), completed in Spring 2018 at Penn State. It assumes you have a basic understanding of the content of my thesis. 
 
 This repository should be used for:
 - getting the code set up on your machine (installing dependencies, building the code, running the code)
